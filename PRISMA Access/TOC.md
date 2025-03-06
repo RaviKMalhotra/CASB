@@ -5,6 +5,8 @@
 - Understanding Why We Need Cloud Security
 - Overview of CASB and Prisma Access
 - Key Concepts: SASE, CASB, SaaS Security, Enterprise DLP, WildFire Malware Analysis
+- Launching VMs in Any Cloud Platform (AWS/Azure/GCP)
+- Launching Containers and Kubernetes Clusters in Any Cloud Platform (AWS/Azure/GCP)
 
 ## Day 1: Onboarding and Initial Setup
 
@@ -52,17 +54,6 @@
 - Recap
 - Understanding Compliance Frameworks and Policies
 - Monitoring and Reporting Compliance
+- Understnding CASB best practices
 - Hands-on Lab: Compliance Management with Prisma Access
--
-## Day 4.5: Cloud Platform Labs
 
-- Recap
-- Launching VMs in Any Cloud Platform (AWS/Azure/GCP)
-- Launching Containers and Kubernetes Clusters in Any Cloud Platform (AWS/Azure/GCP)
-
-## Day 5: Best Practices Discussion and Recap
-
-- Recap
-- Best Practices for Securing Cloud Environments
-- Advanced Configuration and Optimization
-- Hands-on Lab: Implementing Best Practices
